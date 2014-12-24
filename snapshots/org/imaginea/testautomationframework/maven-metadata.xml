@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.imaginea</groupId>
+  <artifactId>testautomationframework</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141224061155</lastUpdated>
+  </versioning>
+</metadata>
